@@ -5,7 +5,7 @@
 # Put your favicon.ico into `hexo-site/source/` directory.
 favicon: /favicon.ico
 
-avatar: https://avatars1.githubusercontent.com/u/1620343?v=4&s=460
+# avatar: "http://imglf5.nosdn.127.net/img/dFJTKzkyUDNhSitOQnhBR3FLK2szZzhFenhWeXFHNE9JQi9GUFd6TnFzWDFkcmhQMVJjVnp3PT0.jpg"
 
 # Set default keywords (Use a comma to separate)
 keywords: "Hexo, NexT"
@@ -92,7 +92,7 @@ scheme: Muse
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-  GitHub: https://github.com/hyy044101331
+ #  GitHub: https://github.com/xxx
  # Twitter: http://127.0.0.1:4000
  # Weibo: http://127.0.0.1:4000
  # LinkLabel: Link
